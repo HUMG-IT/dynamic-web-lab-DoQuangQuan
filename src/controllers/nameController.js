@@ -7,6 +7,7 @@
  * - Trả về phản hồi JSON chứa lời chào và danh sách tên cập nhật.
  */
 
+
 const names = require('../models/names');
 
 /**
